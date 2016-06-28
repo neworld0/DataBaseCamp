@@ -1,2 +1,2 @@
 # DataBaseCamp
-Machin learning Experimental Project
+Machine learning Experimental Project
